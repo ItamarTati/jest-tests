@@ -1,0 +1,23 @@
+{
+  "name": "jest-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItamarTati/jest-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItamarTati/jest-tests/issues"
+  },
+  "homepage": "https://github.com/ItamarTati/jest-tests#readme",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.10.4",
+    "jest": "^26.4.2"
+  }
+}
