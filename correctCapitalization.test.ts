@@ -1,6 +1,6 @@
 const correctCapitalization = require('./correctCapitalization');
 
-test('Is a valid Palindrome', () => {
+test('check capitalisation', () => {
     expect(correctCapitalization('USA')).toBe(true);
     expect(correctCapitalization('Calvin')).toBe(true);
     expect(correctCapitalization('compUter')).toBe(false);
